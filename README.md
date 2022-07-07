@@ -27,7 +27,7 @@ do Programa de Talentos NL Informática 2022.
 - Localização: Brasil, Caxias do Sul - RS</b>
 
 ### Links Empresa:
-- (NL Informática) - https://www.nl.com.br/
+- (NL Informática) - https://www.nl.com.br
 - (CakeERP) - https://www.cakeerp.com
 
 ### Links Úteis:
