@@ -7,21 +7,34 @@
 ## 🚀  Sobre o CakeERP
 O Cake é um produto desenvolvido pela NL Informática, uma empresa nacional que há mais de 40 anos vem construindo uma das mais sólidas carteiras de clientes na área de softwares de suporte à gestão. Todos os produtos NL são certificados e possuem um dos mais altos níveis de confiabilidade...
 <br>
-<br>
-Contato:
 
-- <b>E-email:</b> pensegrande@cakeerp.com
-- <b>Localização:</b> Brasil, Caxias do Sul - RS</b>
+## Instruções
 
-Links Empresa:
-- <b>(NL Informática)</b> - https://www.nl.com.br/
-- <b>(CakeERP)</b> - https://www.cakeerp.com
+Este repositório é apenas um template. A apartir deste template você poderá acompanhar as aulas
+do Programa de Talentos NL Informática 2022.
 
-Links Úteis:
-- <b>(Python)</b> - https://www.python.org/
-- <b>(PEPs - Python)</b> - https://www.python.org/dev/peps/
-- <b>(Flask)</b> - https://flask.palletsprojects.com/en/2.0.x/
-- <b>(Pyramid)</b> - https://trypyramid.com/
-- <b>(Django)</b> - https://www.djangoproject.com/
-- <b>(Fastapi)</b> - https://fastapi.tiangolo.com/
+## Clonando o Repositório
+
+- Faça login no Github ou cadastre-se gratuitamente caso ainda não tenha uma conta.
+- Crie um fork (cópia) deste repositório clicando em fork.
+- O seu repositório estará em https:// github.com / SEUNOME / cakeerp-talent-program-2022
+- Copie a URL do seu repositório (você vai precisar depois)
+
+
+### Contato:
+- E-mail Geral: pensegrande@cakeerp.com
+- E-mail Help: fernando.celmer@cakeerp.com
+- Localização: Brasil, Caxias do Sul - RS</b>
+
+### Links Empresa:
+- (NL Informática) - https://www.nl.com.br/
+- (CakeERP) - https://www.cakeerp.com
+
+### Links Úteis:
+- (Python) - https://www.python.org/
+- (PEPs - Python) - https://www.python.org/dev/peps/
+- (Flask) - https://flask.palletsprojects.com/en/2.0.x/
+- (Pyramid) - https://trypyramid.com/
+- (Django) - https://www.djangoproject.com/
+- (Fastapi) - https://fastapi.tiangolo.com/
 <p>
