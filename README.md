@@ -13,13 +13,15 @@ O Cake é um produto desenvolvido pela NL Informática, uma empresa nacional que
 Este repositório é apenas um template. A apartir deste template você poderá acompanhar as aulas
 do Programa de Talentos NL Informática 2022.
 
-## Clonando o Repositório
+## Criando um fork do Repositório
 
 - Faça login no Github ou cadastre-se gratuitamente caso ainda não tenha uma conta.
 - Crie um fork (cópia) deste repositório clicando em fork.
 - O seu repositório estará em https:// github.com / SEUNOME / cakeerp-talent-program-2022
 - Copie a URL do seu repositório (você vai precisar depois)
 
+## Clonando o Repositório
+- Com a URL do seu repositório em mãos, digite o seguinte comando em seu temrinal <code>git clone URL_REPOSITORIO</code>.
 
 ### Contato:
 - E-mail Geral: pensegrande@cakeerp.com
