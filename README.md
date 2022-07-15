@@ -21,7 +21,7 @@ do Programa de Talentos NL Informática 2022.
 - Copie a URL do seu repositório (você vai precisar depois)
 
 ## Clonando o Repositório
-- Com a URL do seu repositório em mãos, digite o seguinte comando em seu temrinal <code>git clone URL_REPOSITORIO</code>.
+- Com a URL do seu repositório em mãos, digite o seguinte comando em seu temrinal <code>git clone <URL_REPOSITORIO></code>.
 
 ### Contato:
 - E-mail Geral: pensegrande@cakeerp.com
