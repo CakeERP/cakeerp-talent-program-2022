@@ -26,13 +26,13 @@ do Programa de Talentos NL Informática 2022.
 
 ### Criando um fork do Repositório
 
-- Faça login no Github ou cadastre-se gratuitamente caso ainda não tenha uma conta.
-- Crie um fork (cópia) deste repositório clicando em fork.
-- O seu repositório estará em https:// github.com / SEUNOME / cakeerp-talent-program-2022
-- Copie a URL do seu repositório (você vai precisar depois)
+    - Faça login no Github ou cadastre-se gratuitamente caso ainda não tenha uma conta.
+    - Crie um fork (cópia) deste repositório clicando em fork.
+    - O seu repositório estará em https:// github.com / SEUNOME / cakeerp-talent-program-2022
+    - Copie a URL do seu repositório (você vai precisar depois)
 
 ### Clonando o Repositório
-- Com a URL do seu repositório em mãos, digite o seguinte comando em seu temrinal <code>git clone <URL_REPOSITORIO></code>.
+    - Com a URL do seu repositório em mãos, digite o seguinte comando em seu temrinal git clone URL_REPOSITORIO.
 
 ## Informações de Contato
 
