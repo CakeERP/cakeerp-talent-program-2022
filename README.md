@@ -42,6 +42,7 @@ do Programa de Talentos NL Informática 2022.
 **Contato Help:**
 - E-mail Help: fernando.celmer@cakeerp.com
 - E-mail: email@fernandocelmer.com
+- Site: https://fernandocelmer.com/
 
 **Links Empresa:**
 - (NL Informática) - https://www.nl.com.br
