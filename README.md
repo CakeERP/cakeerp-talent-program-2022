@@ -21,7 +21,7 @@ O Cake é um produto desenvolvido pela NL Informática, uma empresa nacional que
 
 ## Instruções
 
-Este repositório é apenas um template. A apartir deste template você poderá acompanhar as aulas enviar as suas atividades 
+Este repositório é apenas um template. A apartir deste template você poderá acompanhar as aulas e enviar as suas atividades 
 do Programa de Talentos NL Informática 2022.
 
 ### Criando um fork do Repositório
