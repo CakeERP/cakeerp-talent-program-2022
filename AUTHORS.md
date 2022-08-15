@@ -5,3 +5,5 @@
 * Fernando Celmer <email@fernandocelmer.com>
 
 ## Contributors
+
+* Carlos Gil <carlos.contegil@gmail.com>
