@@ -6,4 +6,5 @@
 
 ## Contributors
 
+* Carlos Gil <carlos.contegil@gmail.com>
 * Gabriel Pedroni Paim <sleepy.pepperoni@gmail.com>
