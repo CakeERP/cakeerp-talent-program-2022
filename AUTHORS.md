@@ -11,3 +11,4 @@
 * Gabriel Pedroni Paim <sleepy.pepperoni@gmail.com>
 * Fábio Augusto Silva Tessaro <fabio.augusto.tessaro@gmail.com>
 * Murilo Cunha <Murilo.cunha@terra.com.br>
+* Paulo Ricardo dos Santos Filho <pauloricardossfilho@gmail.com>
