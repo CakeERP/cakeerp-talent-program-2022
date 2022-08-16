@@ -13,3 +13,4 @@
 * Vinícius Guilherme Pereira de Lima <vdelima965@gmail.com>
 * Murilo Cunha <Murilo.cunha@terra.com.br>
 * Paulo Ricardo dos Santos Filho <pauloricardossfilho@gmail.com>
+* Vilmar Cazanatto <vilmarcazanatto@hotmail.com>
