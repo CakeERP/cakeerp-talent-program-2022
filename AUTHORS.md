@@ -17,3 +17,4 @@
 - Rafael Felli <fellirafael40@gmail.com>
 - Jonathan Manfro <manfro.jonathan@hotmail.com>
 - João Pedro De Antoni De Villa <joaopdadv@gmail.com>
+- Riquelmy Debona <riquelmydebona@hotmail.com>
