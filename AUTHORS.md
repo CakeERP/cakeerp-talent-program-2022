@@ -15,3 +15,4 @@
 * Paulo Ricardo dos Santos Filho <pauloricardossfilho@gmail.com>
 * Vilmar Cazanatto <vilmarcazanatto@hotmail.com>
 * Rafael Felli <fellirafael40@gmail.com>
+* Jonathan Manfro <manfro.jonathan@hotmail.com>
