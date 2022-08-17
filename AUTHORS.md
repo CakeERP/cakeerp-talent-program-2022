@@ -14,3 +14,4 @@
 * Murilo Cunha <Murilo.cunha@terra.com.br>
 * Paulo Ricardo dos Santos Filho <pauloricardossfilho@gmail.com>
 * Vilmar Cazanatto <vilmarcazanatto@hotmail.com>
+* Rafael Felli <fellirafael40@gmail.com>
