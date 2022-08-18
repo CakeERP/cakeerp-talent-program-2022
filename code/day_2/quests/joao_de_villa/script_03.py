@@ -21,8 +21,9 @@ for p in perguntas:
     respostas.append(input())
 
 for i in range(len(respostas)):
-    if respostas[i].lower() == 's':
+    if (respostas[i].lower() == 's'):
         true += 1
+
 
 if (true == 2):
     print("Você foi classificado como SUSPEITO.")
