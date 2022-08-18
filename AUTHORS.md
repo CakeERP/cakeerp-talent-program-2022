@@ -18,3 +18,4 @@
 - Jonathan Manfro <manfro.jonathan@hotmail.com>
 - João Pedro De Antoni De Villa <joaopdadv@gmail.com>
 - Jordano Giacomet Tomazoni <JGTomazoni@ucs.br>
+- Riquelmy Debona <riquelmydebona@hotmail.com>
