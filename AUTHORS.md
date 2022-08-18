@@ -2,15 +2,20 @@
 
 ## Development Lead
 
-* Fernando Celmer <email@fernandocelmer.com>
+- Fernando Celmer <email@fernandocelmer.com>
 
 ## Contributors
 
-* Felipe Felicetti <felifelicetti@gmail.com>
-* Carlos Gil <carlos.contegil@gmail.com>
-* Gabriel Pedroni Paim <sleepy.pepperoni@gmail.com>
-* Fábio Augusto Silva Tessaro <fabio.augusto.tessaro@gmail.com>
-* Vinícius Guilherme Pereira de Lima <vdelima965@gmail.com>
-* Murilo Cunha <Murilo.cunha@terra.com.br>
-* Paulo Ricardo dos Santos Filho <pauloricardossfilho@gmail.com>
-* Vilmar Cazanatto <vilmarcazanatto@hotmail.com>
+- Felipe Felicetti <felifelicetti@gmail.com>
+- Carlos Gil <carlos.contegil@gmail.com>
+- Gabriel Pedroni Paim <sleepy.pepperoni@gmail.com>
+- Fábio Augusto Silva Tessaro <fabio.augusto.tessaro@gmail.com>
+- Vinícius Guilherme Pereira de Lima <vdelima965@gmail.com>
+- Murilo Cunha <Murilo.cunha@terra.com.br>
+- Paulo Ricardo dos Santos Filho <pauloricardossfilho@gmail.com>
+- Vilmar Cazanatto <vilmarcazanatto@hotmail.com>
+- Rafael Felli <fellirafael40@gmail.com>
+- Jonathan Manfro <manfro.jonathan@hotmail.com>
+- João Pedro De Antoni De Villa <joaopdadv@gmail.com>
+- Jordano Giacomet Tomazoni <JGTomazoni@ucs.br>
+- Riquelmy Debona <riquelmydebona@hotmail.com>
