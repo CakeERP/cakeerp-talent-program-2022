@@ -2,8 +2,10 @@
 
 <a href ="https://www.cakeerp.com" target="_blank"><img src="docs/logo-cakeerp.png"></a>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/CakeERP/cakeerp-talent-program-2022)
-![GitHub followers](https://img.shields.io/github/followers/CakeERP?label=Cake%20ERP&style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/CakeERP/cakeerp-talent-program-2022?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/CakeERP?label=CakeERP&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/CakeERP/cakeerp-talent-program-2022?style=for-the-badge)
+
 ## 🚀 Sobre o CakeERP
 O Cake é um produto desenvolvido pela NL Informática, uma empresa nacional que há mais de 40 anos vem construindo uma das mais sólidas carteiras de clientes na área de softwares de suporte à gestão. Todos os produtos NL são certificados e possuem um dos mais altos níveis de confiabilidade...
 <br>
