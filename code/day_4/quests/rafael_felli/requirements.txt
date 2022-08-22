@@ -1,0 +1,10 @@
+anyio==3.6.1
+fastapi==0.79.1
+greenlet==1.1.2
+idna==3.3
+pydantic==1.9.2
+PyMySQL==1.0.2
+sniffio==1.2.0
+SQLAlchemy==1.4.40
+starlette==0.19.1
+typing_extensions==4.3.0
