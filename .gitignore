@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 *.app_test
+
+*check.py
